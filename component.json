@@ -1,0 +1,10 @@
+{
+	"name": "zooshme-reflective-theme",
+	"version": "0.0.1",
+	"repo": "https://github.com/zooshme/zooshme-reflective-theme"
+	"author": {
+		"name": "Ovidiu Spatacian-Tarnu",
+		"github": "https://github.com/zooshme"
+	},
+	"main": "index.js"
+}
